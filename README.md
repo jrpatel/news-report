@@ -1,4 +1,4 @@
-#### News reporting tool
+## News Reporting tool
 
 This tool is build using Python, it uses a PostgreSQL Database for Udacity NanoDegree program. 
 
